@@ -34,7 +34,7 @@ def calc_dtw(A, B):
     return m
 
 
-def malti_dtw(data):
+def multi_dtw(data):
     """
     Parameters
     ----------
